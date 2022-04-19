@@ -1,0 +1,9 @@
+﻿  Creature.cpp
+  Maze.cpp
+  MazeBM.cpp
+  Generating Code...
+D:\Programming\MazeBMSubmission\MazeBM\MazeBM\Creature.cpp(120): warning C4715:  'Creature::goNorth': not all control paths return a value
+D:\Programming\MazeBMSubmission\MazeBM\MazeBM\Creature.cpp(215): warning C4715:  'Creature::goSouth': not all control paths return a value
+D:\Programming\MazeBMSubmission\MazeBM\MazeBM\Creature.cpp(260): warning C4715:  'Creature::goWest': not all control paths return a value
+D:\Programming\MazeBMSubmission\MazeBM\MazeBM\Creature.cpp(165): warning C4715:  'Creature::goEast': not all control paths return a value
+  MazeBM.vcxproj -> D:\Programming\MazeBMSubmission\MazeBM\MazeBM\Debug\MazeBM.exe
